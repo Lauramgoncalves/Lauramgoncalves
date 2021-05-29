@@ -1,4 +1,4 @@
-# Hey👋
+# Hi👋
 
 
 My name is **Laura Gonçalves**, I'm from Brazil, I'm studying systems analysis and development. 💻
